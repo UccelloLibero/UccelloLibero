@@ -39,7 +39,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="30"/>
   <img src="https://img.icons8.com/ios-filled/50/selenium-test-automation.png" alt="Selenium" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="30"/>
 </p>
+
+---
+
+<p><strong>Things I Build</strong></p>
+
+<p><a href="https://github.com/UccelloLibero/Atlas-Quest-by-Dark-Toothful">Atlas Quest</a> A story-driven 2D platformer built in Godot where players unlock animal companions while learning environmental trivia.</p>
+<p><a href="https://github.com/UccelloLibero/Antipode">Antipode</a> A web application that finds your point on the exact opposite side of the Earth using Flask, CeleniumJS, and map coordinates.</p>
+<p><a href="https://github.com/UccelloLibero/Flagship">Flagship</a> A fast-paced flag guessing game built with Flask, Wikipedia API and the WebShare API. Learn global flags under a countdown.</p>
+<p><a href="https://github.com/UccelloLibero/Stochasticity">Stochasticity</a> Responsive web applicaiton showcasing random images paired with biology-themed messages built with Python, Flask, JavaScript, AJAX.</p>
+
+
 
 ---
 
