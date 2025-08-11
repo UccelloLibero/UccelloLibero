@@ -3,7 +3,7 @@
 </p> -->
 
 <p>
-  CS Grad • Software Engineer • Web Developer • Indie Game Developer • Explorer of ideas & mountains
+  CS Grad • Software Engineer • Web Developer • Indie Game Developer
 </p>
 
 ---
