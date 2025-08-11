@@ -2,7 +2,7 @@
   <img src="https://github.com/UccelloLibero/UccelloLibero/blob/main/README.png" alt="Nature's symmetry" align="center"/>
 </p> -->
 
-<p>
+<p align="center">
   CS Grad • Software Engineer • Web Developer • Indie Game Developer
 </p>
 
