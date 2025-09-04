@@ -53,7 +53,7 @@
 
 ---
 
-<p><strong>Things I Build</strong></p>
+<p><strong>Things I've Built</strong></p>
 
 <p><a href="https://github.com/UccelloLibero/Atlas-Quest-by-Dark-Toothful">Atlas Quest</a> A story-driven 2D platformer built in Godot where players unlock animal companions while learning environmental trivia.</p>
 <p><a href="https://github.com/UccelloLibero/Antipode">Antipode</a> A web application that finds your point on the exact opposite side of the Earth using Flask, CeleniumJS, and map coordinates.</p>
