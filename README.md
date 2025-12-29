@@ -63,7 +63,7 @@
 <p><a href="https://github.com/UccelloLibero/Antipode">Antipode</a> A web application that finds your point on the exact opposite side of the Earth using Flask, CeleniumJS, and map coordinates.</p>
 <p><a href="https://github.com/UccelloLibero/Flagship">Flagship</a> A fast-paced flag guessing game built with Flask, Wikipedia API and the WebShare API. Learn global flags under a countdown.</p>
 <p><a href="https://github.com/UccelloLibero/Stochasticity">Stochasticity</a> Responsive web applicaiton showcasing random images paired with biology-themed messages built with Python, Flask, JavaScript, AJAX.</p>
-<p><a href="https://laravel-chirper-main-gh6dbt.laravel.cloud">Chirper</a>A full-stack microblog platform built with Laravel, Tailwind, and Vite. Implements authentication, database migrations, markdown support, favoriting, and shareable per-chirp links.</p>
+<p><a href="https://laravel-chirper-main-gh6dbt.laravel.cloud">Chirper</a> A full-stack microblog platform built with Laravel, Tailwind, and Vite. Implements authentication, database migrations, markdown support, favoriting, and shareable per-chirp links.</p>
 
 
 
