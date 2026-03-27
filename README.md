@@ -67,22 +67,6 @@
 <p><a href="https://github.com/UccelloLibero/Stochasticity">Stochasticity</a> Responsive web applicaiton showcasing random images paired with biology-themed messages built with Python, Flask, JavaScript, AJAX.</p>
 <p><a href="https://laravel-chirper-main-gh6dbt.laravel.cloud">Chirper</a> A full-stack microblog platform built with Laravel, Tailwind, and Vite. Implements authentication, database migrations, markdown support, favoriting, and shareable per-chirp links.</p>
 
-
-
----
-
-<p><strong>Let's Connect</strong></p>
-<p>
-  <a href="https://www.linkedin.com/in/maya-mcpherson-uccellolibero/" target="_blank" style="display: inline-flex; align-items: center; margin: 0 15px; text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" />
-    <span style="margin-left: 16px; font-weight: bold; color: black;"> LinkedIn</span>
-  </a>
-
-  <a href="https://codepen.io/buzzy" target="_blank" style="display: inline-flex; align-items: center; margin: 0 15px; text-decoration: none;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/codepen.png" alt="CodePen" width="24" />
-    <span style="margin-left: 16px; font-weight: bold; color: black; padding-left: 16px;"> CodePen</span>
-  </a>
-</p>
 <!--
 **UccelloLibero/UccelloLibero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
