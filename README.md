@@ -72,6 +72,8 @@
 
 <p><strong>Things I've Built</strong></p>
 
+<p><a href="https://tether-traverse-9fc67c5fbd8e.herokuapp.com/">Tether Traverse</a> A co-op climbing game with real-time HUD, rope physics & more ( JavaScript + Three.js).</p>
+<p><a href="https://memory-match-game-faa5fc6845ab.herokuapp.com/">Memory</a> Card-matching game with simulation-driven scoring: perfect memory still averages ~9 moves, so only avoidable slips cost points. Live Web Audio API sound; privacy-first , with no accounts or tracking (Python, Flask , JS).</p>
 <p><a href="https://github.com/UccelloLibero/Atlas-Quest-by-Dark-Toothful">Atlas Quest</a> A story-driven 2D platformer built in Godot where players unlock animal companions while learning environmental trivia.</p>
 <p><a href="https://github.com/UccelloLibero/Antipode">Antipode</a> A web application that finds your point on the exact opposite side of the Earth using Flask, CeleniumJS, and map coordinates.</p>
 <p><a href="https://github.com/UccelloLibero/Flagship">Flagship</a> A fast-paced flag guessing game built with Flask, Wikipedia API and the WebShare API. Learn global flags under a countdown.</p>
